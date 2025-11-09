@@ -17,6 +17,7 @@ In order to optimize marketing campaigns with the help of the dataset, we will h
 # Conclusion
 Key outcomes of the analysis are the recommendations for future marketing campaigns:
 
-The customer's account balance has a huge influence on the campaign's outcome. People with account balance above 1490$ are more likely to subscribe for term deposit, so future address those customers.
-The customer's age affects campaign outcome as well. Future campains should concentrate on customers from age categories below 30 years old and above 50 years old.
-Number of contacts with the customer during the campaign is also very important. The number of contacts with the customer shouldn't exceed 4.
+1. The customer's account balance has a huge influence on the campaign's outcome.
+2. People with account balance above 1490$ are more likely to subscribe for term deposit, so future address those customers.
+3. The customer's age affects campaign outcome as well. Future campains should concentrate on customers from age categories below 30 years old and above 50 years old.
+4. Number of contacts with the customer during the campaign is also very important. The number of contacts with the customer shouldn't exceed 4.
